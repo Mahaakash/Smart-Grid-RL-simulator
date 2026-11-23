@@ -1,0 +1,6 @@
+Method,Total Cost (₹),Total CO2 (kg),Unmet Demand (kWh),Cost saved vs GridOnly (%),CO2 saved vs GridOnly (%)
+GridOnly,78718.25,9923.85,0.0,0.0,0.0
+RuleBased,68180.14,9668.53,0.0,13.39,2.57
+DQN,70992.9,9885.85,0.0,9.81,0.38
+PPO,78480.75,9885.85,0.0,0.3,0.38
+DQN + Forecast,70758.84,9885.85,0.0,10.11,0.38

@@ -1,0 +1,10 @@
+pandas
+numpy
+gymnasium
+stable-baselines3
+matplotlib
+streamlit
+plotly
+pytest
+tensorboard
+torch

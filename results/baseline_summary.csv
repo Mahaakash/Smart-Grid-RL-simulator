@@ -1,0 +1,3 @@
+policy,total_cost_inr,total_co2_kg,total_unmet_kwh
+GridOnly,78718.25,9923.848,0.0
+RuleBased,68180.13599722993,9668.528559556788,0.0
